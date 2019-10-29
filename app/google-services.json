@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686965819596",
+    "firebase_url": "https://asistanauth.firebaseio.com",
+    "project_id": "asistanauth",
+    "storage_bucket": "asistanauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686965819596:android:c25ac2777459f27cbcda69",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686965819596-9o0qr6f2uof8crb9mfs5aoei2uir4fpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseauth",
+            "certificate_hash": "ea5ba40828deb3046d9a6ca71b92940da03a2183"
+          }
+        },
+        {
+          "client_id": "686965819596-bvggj0tf0ct03lrbr7rbon20sm7ob6kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzYg2ysRdfm3ONnt6sKgpHtET0j9tbQGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686965819596-bvggj0tf0ct03lrbr7rbon20sm7ob6kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
